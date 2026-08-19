@@ -35,7 +35,7 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: Lara70987/campeonato-ci:${{ github.sha }}
+        tags: larinhazzz/campeonato-ci:${{ github.sha }}
 
 
   
